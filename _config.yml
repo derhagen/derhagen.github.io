@@ -1,20 +1,18 @@
+# Permalinks
+permalink:        date
+
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="https://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              https://hyde.getpoole.com
-baseurl:          ''
+title:            'derhagen'
+tagline:          'A blog I quickly set up to get writing'
+description:      'A blog I quickly set up to get writing'
+baseurl:          '/'
 paginate:         5
 
 # About and contact
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'derhagen'
+  photourl:       'https://avatars1.githubusercontent.com/u/2806328?s=460&u=8190bb7001f9ec5a15d1aa4a7715860392827a96&v=4'
 
 # Gems
 plugins:
   - jekyll-paginate
-  - jekyll-gist
-
-# Custom vars
-version:          3.0.0
