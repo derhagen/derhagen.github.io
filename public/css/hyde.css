@@ -99,6 +99,13 @@ a.sidebar-nav-item:focus {
   font-weight: bold;
 }
 
+
+.sidebar-photo {
+  width: 50%;
+  border-radius: 50%;
+  display: none;
+}
+
 /* Sticky sidebar
  *
  * Add the `sidebar-sticky` class to the sidebar's container to affix it the
@@ -111,6 +118,10 @@ a.sidebar-nav-item:focus {
     right:  1rem;
     bottom: 1rem;
     left:   1rem;
+  }
+
+  .sidebar-photo {
+    display: block;
   }
 }
 
