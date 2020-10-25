@@ -5,7 +5,7 @@ permalink:        date
 title:            'derhagen'
 tagline:          'A blog I quickly set up to get writing'
 description:      'A blog I quickly set up to get writing'
-baseurl:          '/'
+baseurl:          ""
 paginate:         5
 
 # About and contact
