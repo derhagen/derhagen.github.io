@@ -3,7 +3,7 @@ layout: post
 title: Video Conferencing is broken for many physical scenarios
 ---
 
-Most video conferencing systems generally assume the same physical usage scenario: We have n users who sit or lie around in distinct physical locations, each of them having a client device to participate in an n:n video call, i.e. everyone can talk to everyone. Even though some platforms came up with a designated presenter or breakout rooms, I haven't seen the assumptions of the physical separation challenged yet. Thereby, we have been struggling with different physical scenarios for a while. People who have a conference room at their workplace, that is just too large for a conference phone, know the terrible "catch box", a soft wireless microphone cube that is thrown from speaker to speaker, but is also magically attracted by half-empty coffee cups.
+Most video conferencing systems generally assume the same physical usage scenario: We have *n* users who sit or lie around in distinct physical locations, each of them having a client device to participate in an *n:n* video call, i.e. everyone can talk to everyone. Even though some platforms came up with a designated presenter or breakout rooms, I haven't seen the assumptions of the physical separation challenged yet. Thereby, we have been struggling with different physical scenarios for a while. People who have a conference room at their workplace, that is just too large for a conference phone, know the terrible "catch box", a soft wireless microphone cube that is thrown from speaker to speaker, but is also magically attracted by half-empty coffee cups.
 
 ## 1. The classroom
 
